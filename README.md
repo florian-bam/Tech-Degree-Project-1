@@ -11,11 +11,11 @@
 
  To do:
  1. DONE Fix semantic mark-up (add nav, fix header, etc.)
- 2. Add a few more pages
+ 2. DONE Add a few more pages
  3. DONE Add Github links
  4. DONE Add some more content
- 5. Maybe add some more images, or something?
- 6. Add the "open new link" feature to all links
+ 5. DONE Maybe add some more images, or something?
+ 6. DONE Add the "open new link" feature to all links
 
  Before submitting:
  1. Validate the HTML
