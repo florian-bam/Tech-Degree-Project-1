@@ -95,7 +95,8 @@ header .profile-image:hover {
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 500px;
+  width: -webkit-fill-available;
+  max-width: 600px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -218,6 +219,27 @@ h5 {
   text-align:center;
   font-style: italic;
   font-weight: normal;
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+/* different .card, because 3 per row, not 2 */
+.card-experience {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  width: -webkit-fill-available;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.card-experience:hover {
+  border-color: rgb(252,15,72);
 }
 
 /* Florian end */

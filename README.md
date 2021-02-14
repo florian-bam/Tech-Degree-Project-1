@@ -10,10 +10,10 @@
 
 
  To do:
- 1. Fix semantic mark-up (add nav, fix header, etc.)
+ 1. DONE Fix semantic mark-up (add nav, fix header, etc.)
  2. Add a few more pages
- 3. Add Github links
- 4. Add some more content
+ 3. DONE Add Github links
+ 4. DONE Add some more content
  5. Maybe add some more images, or something?
  6. Add the "open new link" feature to all links
 
